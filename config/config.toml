@@ -32,5 +32,8 @@ yq = "4"
 k9s = "latest"
 biome = "latest"
 
+[bootstrap.services.mise-history]
+builtin = "history-watch"
+
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
