@@ -37,3 +37,6 @@ biome = "latest"
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
 
+[bootstrap.services.mise-history]
+builtin = "history-watch"
+
