@@ -1,7 +1,7 @@
 [settings]
 auto_update = true
 auto_update_check_duration = "3d"
-idiomatic_version_file_enable_tools = ["node", "java"]
+idiomatic_version_file_enable_tools = ["node", "java", "python"]
 java.shorthand_vendor = "temurin"
 minimum_release_age = "3d"
 
