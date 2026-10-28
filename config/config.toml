@@ -57,6 +57,7 @@ pre-commit = "4.6.2"
 "pipx:yamllint" = "1.38.0"
 "pipx:copier" = "9.19.1"
 "go:github.com/hashicorp/hcl/v2/cmd/hclfmt" = "2.24.0"
+pnpm = "12.6.0"
 
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
