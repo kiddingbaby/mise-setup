@@ -59,6 +59,7 @@ pre-commit = "4.6.2"
 "go:github.com/hashicorp/hcl/v2/cmd/hclfmt" = "2.24.0"
 pnpm = "12.6.0"
 opencode = "latest"
+"pipx:serena-agent" = "1.7.0"
 
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
