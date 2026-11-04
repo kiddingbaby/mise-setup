@@ -60,6 +60,7 @@ pre-commit = "4.6.2"
 pnpm = "12.6.0"
 opencode = "latest"
 "pipx:serena-agent" = "1.7.0"
+"npm:@playwright/mcp" = "0.0.83"
 
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
