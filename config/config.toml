@@ -13,7 +13,7 @@ minimum_release_age_excludes = ["claude", "codex", "pi", "gemini"]
 chezmoi = "2.73.0"
 
 node = "24.19.0"
-go = "1.26.6"
+go = "1.27.3"
 java = "21.0.12+101.0.LTS"
 python = "3.12.14"
 
