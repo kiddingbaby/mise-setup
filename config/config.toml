@@ -61,6 +61,7 @@ pnpm = "12.6.0"
 opencode = "latest"
 "pipx:serena-agent" = "1.7.0"
 "npm:@playwright/mcp" = "0.0.83"
+promtool = "latest"
 
 [dotfiles]
 "~/.config/mise/config.toml" = { mode = "track" }
