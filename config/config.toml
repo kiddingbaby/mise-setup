@@ -59,7 +59,7 @@ pre-commit = "4.6.2"
 "go:github.com/hashicorp/hcl/v2/cmd/hclfmt" = "2.24.0"
 pnpm = "12.6.0"
 opencode = "latest"
-"pipx:serena-agent" = "1.7.0"
+"pipx:serena-agent" = { version = "2.1.0", uvx = false }
 "npm:@playwright/mcp" = "0.0.83"
 promtool = "latest"
 "go:github.com/go-delve/delve/cmd/dlv" = "1.27.2"
